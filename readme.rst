@@ -1,24 +1,15 @@
 ###################
-Bootstrap 4 - Completo, Prático e Responsivo
+Curso de Materialize: Crie Templates para Web e Aplicativos
 ###################
 
-Bootstrap é o mais popular framework HTML, CSS, e JS para desenvolvimento de projetos responsivo, ele é principalmente focado para trazer Responsividade para dispositivos móveis na web.
+Materialize CSS é um framework front-end moderno e responsivo baseado em Material Design da Google. Neste curso ensinaremos desde os conceitos mais básico aos componentes mais complexos, como por exemplo a instalação do framework, a forma de utilizar corretamente as tags, também iremos juntos montar alguns layouts responsivos, cujo objetivo consiste em demonstrar na prática como utilizar os componentes, plugins e ferramentas que o framework oferece do jeito certo.
 
-O Bootstrap torna o desenvolvimento front-end web mais rápido e fácil. Ele é feito para desenvolvedores de todos os níveis e se adapta a dispositivos de qualquer forma ou tamanho.
+Após o curso o aluno será capaz de criar Templates profissionais para sites e também para aplicativos mobile.
 
-Ele usa o CSS tradicional, mas seu código fonte utiliza Sass, um popular pré-processador CSS. 
-
-Fácil e eficiente, com Bootstrap você adapta seus projetos web para celulares, tablets e para desktops através de media queries CSS de forma muito simples.
-
-No curso aprenderemos elementos HTML comuns, dezenas componentes CSS e HTML personalizados e incríveis plugins jQuery.
-
-Ao final do Curso faremos 2 Templates trabalhando com Temas do Bootstrap: um voltado a dashboard e outro para um site institucional estilo One Page.
-
-O Curso foi criado da versão Beta 4.0.0 Beta e receberá atualizações conforme as novas versões forem surgindo até que seja Lançada a versão final do Framework.
-
+Se você esta a procura de uma alternativa ao Bootstrap 4 este framework é o mais indicado.
 
 
 *******************
 Link para o Curso por apenas R$ 19,99
 *******************
-https://www.udemy.com/bootstrap-4-completo/?couponCode=GITHUB
+
