@@ -10,6 +10,6 @@ Se você esta a procura de uma alternativa ao Bootstrap 4 este framework é o ma
 
 
 *******************
-Link para o Curso por apenas R$ 19,99
+Link para o Curso por apenas R$ 19,99: https://www.udemy.com/curso-de-materialize/?couponCode=GITHUB
 *******************
 
